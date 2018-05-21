@@ -1,0 +1,20 @@
+header {
+  margin-top: 5px;
+  border-radius: 5px;
+  border: 1px solid black;
+  color: #FFCE00;
+}
+
+nav {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 5px;
+  background-color: #262228;
+}
+
+.logo {
+  background-color: #0375B4;
+  text-align: center;
+  padding: 5px;
+}
